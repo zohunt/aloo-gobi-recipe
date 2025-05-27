@@ -1,0 +1,35 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head><title>Aloo Gobi Recipe</title>
+  <meta charset="utf-8"></head>
+  <body>
+    <h1>Aloo Gobi</h1>
+    <p>If comfort food had a cozy sweater, it would be Aloo Gobi. This warm and hearty potato-cauliflower curry is a hug in a bowl—simple to make, full of spice (but not too spicy!), and perfect for chilly nights or lazy weekends. It’s the kind of dish that makes your kitchen smell amazing and your belly very, very happy. Let’s get into it!</p>
+    <img src="https://static01.nyt.com/images/2023/12/21/multimedia/ND-Aloo-Gobi-gkwc/ND-Aloo-Gobi-gkwc-mediumSquareAt3X.jpg" alt="Aloo Gobi dish" width="300">
+<h2>Ingredients</h2>
+<ul>
+  <li>1 head cauliflower</li>
+  <li>2lbs (1kg) potatoes</li>
+  <li>1oz (25g) fresh ginger, grated</li>
+  <li>1/4 cup (50mL) vegetable oil</li>
+  <li>1tsp (5mL) whole cumin seeds</li>
+  <li>2tsp (10mL) salt</li>
+  <li>1/2tsp (2mL) each, chili powder and turmeric</li>
+  </ul>
+  <h2>Instructions</h2>
+  <ol>
+    <li>Remove leaves from cauliflower and break into flowerets</li>
+    <li>Peel and cut potatoes and wash with cauliflower, set aside</li>
+    <li>Fry ginger in oil with cumin seeds</li>
+    <li>When brown, add salt and other spices. Mix well</li>
+    <li>Add vegetables, mix well</li>
+    <li>Cook over very low heat, covered, until tender</li>
+    </ol>
+    </body>
+    </html>
+
+
+** end of index.html **
+
